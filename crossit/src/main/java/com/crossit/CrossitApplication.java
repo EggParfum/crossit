@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CrossitApplication {
 
 	public static void main(String[] args) {
+		System.out.println("CossIt!!");
 		SpringApplication.run(CrossitApplication.class, args);
 	}
 
